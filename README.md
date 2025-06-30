@@ -1,2 +1,4 @@
 # DevJourney-FED-HTMLCSS-Jonas
-🚀 GitHub Bootcamp: A hands-on journey to mastering Git and GitHub. Learn essential version control skills with real-world examples and best practices. Perfect for beginners and aspiring developers building their Git confidence.
+🚀 Learn modern HTML5, CSS3, and responsive web design by building a real-world portfolio website.
+Master the fundamentals of front-end development, including Flexbox and CSS Grid.
+Perfect for beginners and aspiring developers to kickstart their web design journey.
