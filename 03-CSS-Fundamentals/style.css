@@ -1,14 +1,11 @@
-/* Comibination of selectors List selector */
+/*  Universal selector */
 
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
+/*  inheritance */
+body {
   color: #444;
+  font-family: sans-serif;
 }
+/* Comibination of selectors List selector */
 
 h1,
 h2,
@@ -92,4 +89,26 @@ li:last-child {
 
 li:nth-child(2) {
   color: red;
+}
+
+/*  Styling Links (LVHA)  */
+
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1098ad;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline dotted orchid;
+}
+
+a:active {
+  background-color: bisque;
+  font-style: italic;
 }
